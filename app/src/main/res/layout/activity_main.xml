@@ -37,6 +37,7 @@
     </FrameLayout>
 
 
+<<<<<<< HEAD
     <FrameLayout
         android:id="@+id/flBMI"
         android:layout_width="70dp"
@@ -72,4 +73,6 @@
         app:layout_constraintTop_toBottomOf="@id/flBMI"/>
 
 
+=======
+>>>>>>> 38534a31dc77ae6ca55cffd6308c3ef7b7467eb9
 </androidx.constraintlayout.widget.ConstraintLayout>
